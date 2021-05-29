@@ -1,4 +1,4 @@
-# FirmFunFair
+# FilmFunFair
 
 > SSAFY 1학기 마지막 프로젝트
 >
