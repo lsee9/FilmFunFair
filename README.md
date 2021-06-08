@@ -36,7 +36,7 @@
   - `깔끔한 디자인`
     - 영화 상세페이지, 커뮤니티, 마이페이지 등 깔끔한 디자인
   - `배포`
-    - Frontend : **Nginx**
-    - Backend : **Netlify**
+    - Frontend : **Netlify**
+    - Backend : **Nginx**
 
 <br>
