@@ -126,9 +126,7 @@
      this.myPostMovies = res.data['my_movies'].reverse()
      ```
 
-2. Mypage - **MyPostInfo** 디자인 수정
-
-   - 박스 크기 키워서 한줄에 4개 배치
+2. Mypage - **MyPostInfo** 디자인
 
    - `제목`, `좋아요`, `댓글` 정보 배치
 
