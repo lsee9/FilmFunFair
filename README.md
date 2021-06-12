@@ -51,7 +51,7 @@
 
   - `Main`
 
-  <img src="README.assets/1_home.png" alt="image-20210612160031015" style="zoom:50%;" />
+    <img src="README.assets/1_home.png" alt="image-20210612160031015" style="zoom:50%;" />
 
   - `Login, Signup Modal`
 
