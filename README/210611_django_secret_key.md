@@ -67,7 +67,7 @@
 - **`secrets.json`파일 생성**
 
   - 프로젝트 최상위 위치 (`manage.py와 같은 위치`) 에 생성
-  - `dict` 형태로 key값을 넣어준다
+  - **dict** 형태로 key값을 넣어준다
 
   ```json
   {
@@ -99,13 +99,13 @@
   SECRET_KEY = get_secret("SECRET_KEY")
   ```
 
-  - `BASE_DIR` (기존에 존재)
+  - **BASE_DIR** (기존에 존재)
     - 프로젝트 **최상단 폴더**로 path지정
     - settings.py의 부모의 부모(`parent.parent`)
-  - `with open(secret_file) as f:`
+  - **with open(secret_file) as f:**
     - `secrets.json` 파일 열고, `json.loads`를 통해 **json 파일을 dict type으로 변환**
-  - `get_secret()`
-    - **import SECRET_KEY**
+  - **get_secret()**
+    - `import SECRET_KEY`
 
 - **서버확인**
 
@@ -145,7 +145,7 @@
 
 - 다행히 **마지막에 project만 commit** 해줘서 **최근 몇개의 기록만 삭제**하면 됐다!
 
-  ###### 운이 나쁘면 모든 history를 날려야 할수도.. :sweat_drops: 조심하쟈!!
+  ###### 운이 나쁘면 모든 history를 날려야 할수도.. :sweat_drops: 조심하자!!
 
 <br>
 
@@ -159,11 +159,14 @@
 
   - 다음처럼 커밋 내용을 확인할 수 있다!!
 
+
+  <img src="210611_django_secret_key.assets/image-20210612131532245.png" alt="image-20210612131532245" style="zoom:33%;" />
+
   - 이런 경우를 위해 **commit message**를 **알아보기 쉽게** 쓰는걸 추천!! (**+ 하나 완성되면 commit**) :star:
 
     ~~예전 경험담이다...허허 지금은 많이 발전한...~~
 
-  <img src="210611_django_secret_key.assets/image-20210612131532245.png" alt="image-20210612131532245" style="zoom:33%;" />
+    
 
 - **commit 내용 삭제(remove)**
 
@@ -174,7 +177,7 @@
   ```
 
   - 최근 내역 **여러개 삭제**
-    - `~삭제할개수`를 적어주면 된다
+    - `~삭제할 갯수`를 적어주면 된다
 
   ```bash
   git reset HEAD~6
