@@ -15,10 +15,8 @@
 - **기간**
   - 21.05.20 (wed) ~ 21.05.28 (fri)
 - **프레임워크**
-  - Frontend: `Vue.js`
-    - Noad.js : v14.16.1
-    - Vue-CLI : v 4.5.13
-  - Backend: `Django` v 3.1.7
+  - Frontend: `Vue.js` v 2.6.12
+  - Backend: `Django` v 3.2.3
 
 - **역할분담**
   - `Pair` : Full Stack + 추가적인 신기한 기능 주로 담당
@@ -44,5 +42,75 @@
   - `배포`
     - Frontend : **Netlify**
     - Backend : **Nginx**
+
+<br>
+
+### **결과페이지** :framed_picture:
+
+- **Home**
+
+  - `Main`
+
+  <img src="README.assets/1_home.png" alt="image-20210612160031015" style="zoom:50%;" />
+
+  - `Login, Signup Modal`
+
+    <img src="README.assets/2_accounts_modal.png" alt="image-20210612160541580" style="zoom:50%;" />
+
+- **MovieList**
+
+  - `Movie Recommendation`
+
+    <img src="README.assets/3_movie_list.png" alt="image-20210612160915193" style="zoom:50%;" />
+
+  - `Movie Search`
+
+    <img src="README.assets/4_search.png" alt="image-20210612161642961" style="zoom:50%;" />
+
+  - `Movie List`
+
+    <img src="README.assets/5_movie_list.png" alt="image-20210612161511286" style="zoom:50%;" />
+
+  - `Movie Caption`
+
+    <img src="README.assets/6_caption.png" alt="image-20210612163356565" style="zoom:50%;" />
+
+  - `Movie Detail Modal`
+
+    <img src="README.assets/7_movie_detail.png" alt="image-20210612161440425" style="zoom:50%;" />
+
+- **Mypage**
+
+  - `Like Movie` & `Watched Movie`
+
+    <img src="README.assets/8_my_movies.png" alt="image-20210612161900063" style="zoom:50%;" />
+
+  - `My Review`
+
+    <img src="README.assets/9_my_review.png" alt="image-20210612161946591" style="zoom:50%;" />
+
+  - `My Post`
+
+    <img src="README.assets/10_my_post.png" alt="image-20210612162042885" style="zoom:50%;" />
+
+- **Community**
+
+  - `Community List`
+
+    <img src="README.assets/11_community_list.png" alt="image-20210612162217402" style="zoom:50%;" />
+
+  - `Community Detail`
+
+    <img src="README.assets/12_community_detail.png" alt="image-20210612162355862" style="zoom:50%;" />
+
+  - `Update & Create Form`
+
+    <img src="README.assets/13_form.png" alt="image-20210612162725034" style="zoom:50%;" />
+
+- **Random**
+
+  - `card`
+
+    <img src="README.assets/14_random.png" alt="image-20210612162856027" style="zoom:50%;" />
 
 <br>
